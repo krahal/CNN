@@ -1,9 +1,7 @@
 # Convolutional Neural Network // classify images - change images of cats and dogs to whatever you want
 
 # Installing Theano (numerical computations)
-
 # Installing Tensorflow (numerical computations)
-
 # Installing Keras (wraps Theano and Tensorflow -> few lines of code) 
 
 # Part 1 - Building the CNN
@@ -98,5 +96,3 @@ if result[0][0] == 1:
     prediction = 'dog'
 else:
     prediction = 'cat'
-    
-# IMPROVE CNN PERFORMANCE EVEN MORE: https://www.udemy.com/deeplearning/learn/v4/questions/2276518
